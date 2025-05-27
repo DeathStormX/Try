@@ -1,0 +1,20 @@
+[
+	"Nonplusultra":{
+		"BaseStrength": 1000,
+		"Cost": ,
+		"RequiredTech": "Biotech",
+		"Moves": 50,
+		"IsMilitary": true,
+		"Melee": true,
+		"UniqueNames": [],
+		"ObsoleteTech": "",
+		"Civilian": false,
+		"CanMoveAfterAttacking": true,
+		"PurchaseYield": "Gold",
+		"CanTargetAir": true,
+		"RangedStrength": 100,
+		"Range": 5,
+		"uniques": ["HP when healing", "Eliminates combat penalty for attacking across a coast"],
+		"Can see over obstacles": true
+	}
+]
