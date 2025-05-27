@@ -1,32 +1,37 @@
 [
 	{
-		"name": "Liberals",
-		"leaderName": "Tomm",
-		"adjective": ["Liberals"],
-		"startBias": ["Avoid [Tundra]"],
-		"preferredVictoryType": "Domination",
-		"personality": "Will II",
+		"name": "The North Pole",
+		"leaderName": "Saint Nicholas",
+		"adjective": ["Polar"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "'When, what to my wondering eyes should appear, but a miniature sleigh, and eight tiny reindeer, with a little old driver, so lively and quick, I knew in a moment it must be St. Nick.' - Clement Moore",
+		"startIntroPart2": "'Maybe Christmas, he thought, doesn't come from a store. Maybe Christmas, perhaps, means a little bit more.' - Theodore Geisel",
+		
+		"declaringWar": "The naughty must be punished! Prepare to receive your coal!",
+		"attacked": "You dare declare war on Christmas? Bah humbug!",
+		"defeated": "Christmas is canceled! Who will help the children now?",
+		"introduction": "Merry Christmas! Have you been good this year?",
+		
+		"neutralHello": "What would you like for Christmas?",
+		"neutralLetsHearIt": "Whisper in my ear.",
+		"neutralNo": "No, that won't do.",
+		"neutralYes": "Yes, that is good.",
 
-		"startIntroPart1": "At the beginning, Parmos was divided into several indipendent tibes. Then your father, King Will II, came to the World and in few years, unified the whole planet under the power of his crown. In his era the Kingdom lived a period of great splendor, everything was perfect. But then an Empire came. Rox, the emperor of a whole Galaxy, wanted to conquer Parmos. Caused by this event the reing broke into several rebellious parts.",
-		"startIntroPart2": "At the moment of your father's death, you made him one last promise: I will make Parmos united again",
+		"hateHello": "Are you still being naughty?",
+		"hateLetsHearIt": "Go on, give me your letter.",
+		"hateNo": "That's not nice!",
+		"hateYes": "Very well.",
+		
+		"afterPeace": "Enough fighting. Time for milk and cookies.",
+		"tradeRequest": "I have gifts for you!",
 
-		"declaringWar": "You seem to be blocking my path to the head of Rox. I wont stop here. Step aside!",
-		"attacked": "Did you make a pact with my enemy? Now you too are going to be damned! I will raze your empire to the ground!",
-		"defeated": "I'm sorry father. That God could punish me for failing! I reserve no glory, no respect. I failed",
-		"introduction": "Were you a part of my empire? It doesn't matter. You will be mine soon",
-
-		"neutralHello": "Prey God for freedom",
-		"hateHello": "Were you a part of my empire? It doesn't matter. You will be mine soon",
-
-		"tradeRequest": "Accept this request otherwise it will be bad for you",
-
-		"outerColor": [27,53,63],
-		"innerColor": [213,249,255],
-		"favoredReligion": "Christianity", //endism
-		"uniqueName": "The Great Liars",
-		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great General] is earned [50]% faster","[-3 Happines, +5 Production] per [3] population [in all cities]","[+20]% [Culture]","[-50]% [Happines]","[-35]% [Gold]","[+20]% Production when constructing [Melee] units [in all cities]"],
-		"cities": ["Artemja","Mastrick"],
-        "spyNames": ["YoR Marthov", "Secam I", "Wirdum", "Mircum", "PesH"]
+		"outerColor": [112,0,0],
+		"innerColor": [51,147,51],
+		"uniqueName": "Christmas Spirit",
+		"uniques": ["[+1 Happiness] from all [Production] buildings","[non-[Air]] units gain the [Snow Shoes] promotion","Double quantity of [Coal] produced"],
+		"cities": ["90 Degrees North","Santa's Corner","Coffee Club Island","Polar Expressway","Alert","Camp Barneo","Drift Station Alpha","Arktika","Hans Island","Candy Cane Forest","Rudolph's Place"],
+		"spyNames": ["Dasher", "Dancer", "Prancer", "Vixen", "Comet", "Cupid", "Donner", "Blitzen", "Rudolph", "Olive"]
 	}
-	
 ]
